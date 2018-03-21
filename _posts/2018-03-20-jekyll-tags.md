@@ -19,7 +19,7 @@ CC 4.0 BY-SA
 亦有不使用plugin的方法，以本站为例简单说说。
 
 
-![Jekyll](https://i.imgur.com/V1YEOqk.png)
+![Jekyll](https://i.imgur.com/V1YEOqk.png){:class="img-responsive"}
 
 
 ### Jekyll tags on Github ###
@@ -113,7 +113,7 @@ CC 4.0 BY-SA
 
 
 
-![文首标签](https://i.imgur.com/IChEDB1.png)
+![文首标签](https://i.imgur.com/IChEDB1.png){:class="img-responsive"}
 
 需要注意的是，以上的语法需要在站点根目录下有一个`tag`的文件夹，而每一个使用的标签，都要建立一个对应的`标签名称.md`的文件。
 
@@ -167,7 +167,7 @@ layout: default
 读者点击某标签时，跳转标签页，在该标签页顺便显示`标签云`。
 
 
-![很丑的标签云](https://i.imgur.com/OtijFbF.png)
+![很丑的标签云](https://i.imgur.com/OtijFbF.png){:class="img-responsive"}
 
 在`_includes`目录下新建一个`archive.html`文件：
 
