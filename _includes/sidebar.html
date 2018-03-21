@@ -27,7 +27,8 @@
       {% endfor %}
 
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Hosted by Github</a></li>
+      {% if page.archives %} <a href='{{ site.baseurl }}{{ page.archives }}'> Posts</a>{% endif %}
+      {% endif %}
     
             <!-- social buttons -->
       {% if site.github_username %}
