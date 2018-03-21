@@ -32,8 +32,7 @@ archives: 'archives.html'
       {% endfor %}
 
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
-      {% if page.archives %} <a href='{{ site.baseurl }}{{ page.archives }}'> Posts</a>{% endif %}
-      {% endif %}
+      <li class="sidebar-nav-item"><a href="{{ site.baseurl }}{{ page.archives }}">Posts Archives</a></li>
     
             <!-- social buttons -->
       {% if site.github_username %}
