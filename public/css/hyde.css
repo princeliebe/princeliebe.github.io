@@ -293,3 +293,7 @@ a.sidebar-nav-item:focus {
 .theme-long-qian .related-posts li a:hover {
   color: #8f5536;
 }
+
+img {
+ zoom: 50%;
+}
