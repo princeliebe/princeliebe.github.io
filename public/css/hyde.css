@@ -295,5 +295,8 @@ a.sidebar-nav-item:focus {
 }
 
 img {
- zoom: 50%;
-}
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+    }
+

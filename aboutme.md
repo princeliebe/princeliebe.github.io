@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-<p class="full-width no-margin"><img src="/public/image/profile.jpg" alt="So" align="right"/></p>
+<p class="full-width no-margin"><img src="/public/image/profile.jpg" alt="So" align="left"/></p>
 
 <blockquote class="full-width"><p>A husband, a father.</p></blockquote>
 
