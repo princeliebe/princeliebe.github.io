@@ -6,13 +6,13 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            princeliebe
-tagline:          'princelieb'
-description:      'Reality augmented.<br>My personal blog.'
+title:            SoYee
+tagline:          'SoYee'
+description:      'Love.<br>And Being Loved.'
 url:              http://princeliebe.github.io/
 
 author:
-  name:           'princeliebe'
+  name:           'SoYee'
   url:            http://princeliebe.github.io/
 
 paginate:         2
