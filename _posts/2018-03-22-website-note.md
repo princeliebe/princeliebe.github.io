@@ -10,6 +10,10 @@ Also published on [S&C](https://soandcandy.us).
 
 ----
 
+* TOC
+{:toc}
+
+
 **给站点增加了几个常用功能，笔记如下。**
 
 ### Post Archives ###
