@@ -29,4 +29,5 @@ tags:
 github_username:  princeliebe
 linkedin_username: junhua-yee-773295107
 
-
+plugins:
+  - jemoji
