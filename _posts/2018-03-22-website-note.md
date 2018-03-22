@@ -6,7 +6,7 @@ excerpt: e.g. Google Analytics, Share button, Social, etc.
 
 
 Also published on [S&C](https://soandcandy.us).
-![CC](https://creativecommons.org/licenses/by-sa/4.0/)
+![cc](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
 ----
 
