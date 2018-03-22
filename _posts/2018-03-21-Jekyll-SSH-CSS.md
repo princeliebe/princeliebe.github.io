@@ -10,6 +10,9 @@ CC 4.0 BY-SA
 
 ----
 
+*TOC
+{:toc}
+
 
 ### 1. SSH key的生成坑 ###
 
@@ -94,7 +97,7 @@ CC 4.0 BY-SA
   $git pull origin master
 ```
 
-该部分与SSH key生成相关，[回去看看](#### Generating SSH key ####)
+该部分与SSH key生成相关，[回去看看](#Generating SSH key)
 
 
 
