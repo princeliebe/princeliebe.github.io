@@ -81,6 +81,6 @@ And add the following to your site's `_config.yml`:
 
 :bowtie:
 
-
+emoji/bowtie
 
 
