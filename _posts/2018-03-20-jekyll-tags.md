@@ -29,7 +29,7 @@ CC 4.0 BY-SA
 
 #### 1. 给文章加标签 ####
 
-前面的文章简单介绍过YAML头信息，[点击这里](http://soyee.me/Writing-with-jekyll)进行温故。因此，实现tags的第一步，是在YAML头信息**给文章加标签**，在你文章的开头处：
+前面的文章简单介绍过YAML头信息，[点击这里](https://soyee.me/2018/03/16/Writing-with-jekyll/)进行温故。因此，实现tags的第一步，是在YAML头信息**给文章加标签**，在你文章的开头处：
 
 
 ```bash

@@ -16,6 +16,7 @@ author:
   url:            http://princeliebe.github.io/
 
 paginate:         2
+google_analytics: 'UA-116205502-1'
 emailme:          mailto:princeliebe@gmail.com
 
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
