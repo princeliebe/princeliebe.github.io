@@ -10,7 +10,7 @@ CC 4.0 BY-SA
 
 ----
 
-*TOC
+* TOC
 {:toc}
 
 
