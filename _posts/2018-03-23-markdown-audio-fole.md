@@ -60,7 +60,8 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 
 <div align="CENTER">
 
-<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66"></iframe>
+<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66">
+</iframe>
 
 </div>
 
