@@ -12,7 +12,7 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 {:toc}
 
 
-** Google Analytics **
+**Google Analytics**
 
 先把Github Pages的一个*坑*填上。如果我们希望对自己的站点进行**网站流量**分析、统计，多数情况下是用**Google Analytics**。这个服务是05年的时候Google收购了它的前身Urchin，将收费服务开放免费使用。
 
@@ -50,7 +50,7 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 
 {% raw %}
 ```bash
-<div align=life> 
+<div align="CENTER"> 
 <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66"></iframe>
 </div>
 ```
@@ -58,8 +58,10 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 
 效果如下：
 
-<div align=life> 
+<div align="CENTER">
+
 <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66"></iframe>
+
 </div>
 
 
