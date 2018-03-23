@@ -64,7 +64,7 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 视频也可以，亦Youtube为例：
 
 
-{% include youtube.html id=hIjhXLkFjPQ %}
+{% include youtube.html id=IlkBLwl4aBM %}
 
 
 由于版权保护问题，尤其现在中美贸易战，可能有的地区无法试听。吹神的**I DO**是找了这么多首能在US试听的歌了。但无法生成外链了。
