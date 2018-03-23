@@ -58,12 +58,10 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 
 效果如下：
 
-<div> 
 <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66">&nbsp;</iframe>
-</div>
 
 
-由于版权保护问题，尤其现在中美贸易战，可能有的地区无法试听。吹神的**I DO**是找了这么多首能在US试听的歌了。但无法生成外链，播放不成功请给我来信。
+由于版权保护问题，尤其现在中美贸易战，可能有的地区无法试听。吹神的**I DO**是找了这么多首能在US试听的歌了。但无法生成外链.
 
 
 ### Markdown 折叠 ###
