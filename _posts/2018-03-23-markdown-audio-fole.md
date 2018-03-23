@@ -50,7 +50,7 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 
 {% raw %}
 ```bash
-<div align="CENTER"> 
+<div> 
 <iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66"></iframe>
 </div>
 ```
@@ -58,10 +58,9 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 
 效果如下：
 
-<div align="CENTER">
 
-<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66">
-</iframe>
+<div>
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66"></iframe>
 
 </div>
 
