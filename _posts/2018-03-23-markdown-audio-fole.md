@@ -38,7 +38,7 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 - 也可将音频链接改为视频链接，从而播放视频。
 
 
-**注意：**
+**注意1：**
 
 音频和视频在默认情况下是会自动循环播放的，可以修改链接的值进行修改；
 
@@ -46,24 +46,43 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 
 在src域中，有些链接会附有height或width值，其表示表示播放框的基本宽高，可以更换其值以获得想要的播放框大小，此时可以不用填写外部的width及height。
 
+
+**注意2：**
+
+Github Pages现在的官方默认Markdown解析是kramdown，它不支持直接在markdown中直接贴`iframe`语句。需要在`_includes`里建一个单独的`html`文件。
+
+
+#### 例子 ####
+
 我们用一个例子来说明一下：
+
+1. 先在`_includes`中新建`youtube.html`文件，里面放入youtube给的`embed`语句。ID部分用`{{ include.id }}`代替；
 
 {% raw %}
 ```bash
-<div> 
-<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id=431610389&auto=0&height=66"></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
 ```
 {% endraw %}
 
 
-视频也可以，亦Youtube为例：
+2. 在你撰写的markdown文件，需要插入视频的地方，插入语句：
+
+{% raw %}
+```
+{% include youtube.html id="IlkBLwl4aBM" %}
+```
+{% endraw %}
+
+效果是这样的：
 
 
 {% include youtube.html id="IlkBLwl4aBM" %}
 
 
-由于版权保护问题，尤其现在中美贸易战，可能有的地区无法试听。吹神的**I DO**是找了这么多首能在US试听的歌了。但无法生成外链了。
+{% include music.html id="30031502" %}
+
+
+对于Youtube存在与否的问题，请自行解决。
 
 
 ### Markdown 折叠 ###
