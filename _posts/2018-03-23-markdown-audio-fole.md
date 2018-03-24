@@ -49,7 +49,7 @@ excerpt: Markdown语法并不支持音频、视频，那么如果处理视听文
 
 **注意2：**
 
-Github Pages现在的官方默认Markdown解析是kramdown，它不支持直接在markdown中直接贴`iframe`语句。需要在`_includes`里建一个单独的`html`文件。
+有的Markdown解析不支持直接在markdown中直接贴`iframe`语句。我们的解决办法是，在`_includes`里建一个单独的`html`文件。
 
 
 #### 例子 ####
@@ -79,12 +79,23 @@ Github Pages现在的官方默认Markdown解析是kramdown，它不支持直接�
 {% include youtube.html id="IlkBLwl4aBM" %}
 
 
+如果贴的是音频，道理一样，获取外链，同样操作即可。以网易云为例：
+
+{% raw %}
+```bash
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id={{ include.id }}&amp;auto=0&amp;height=66"></iframe>
+```
+{% endraw %}
+
+上述是网易云生成的外链，不过要把`width`和`height`的值，用引号包起来，才能被kramdown解析。
+
+
 163music音频测试：
 
 {% include music.html id="30031502" %}
 
 
-对于Youtube存在与否的问题，请自行解决。
+*对于Youtube存在与否的问题，请自行解决。*
 
 
 ### Markdown 折叠 ###
