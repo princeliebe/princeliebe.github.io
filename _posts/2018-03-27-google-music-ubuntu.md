@@ -4,7 +4,7 @@ title: 从网易云音乐转投Google Play Music之路
 excerpt: Sometimes I miss the CD so much.
 ---
 
-![cc](/public/cc.jpg)Also published on [S&C](https://soandcandy.us)
+![cc](/public/cc.png)Also published on [S&C](https://soandcandy.us)
 
 ----
 
