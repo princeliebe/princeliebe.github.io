@@ -4,13 +4,15 @@ title: About Me
 ---
 
 
-<p class="full-width no-margin"><img src="/public/image/profile.jpg" alt="So" align="left"/></p>
 
 <blockquote class="full-width"><p>A husband, a father.</p></blockquote>
 
 I am So Yee. 
 
 ### Professional Experience ###
+
+#### IT ####
+* Secure cameras repair for Amazon supplier.
 
 #### Secretary of board ####
 * IPO project, Johnson Precision Engineering (Suzhou) Ltd., Co. Nov 2015 - Sep 2017 [Johnson](http://www.jspesz.com/index_en.html)
