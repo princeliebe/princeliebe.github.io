@@ -1,5 +1,5 @@
 ---
-tags: SSL
+tags: Media
 title: 海外使用网易云音乐的几个免费DNS
 excerpt: 其实网易云音乐越来越差了真没必要用
 ---
