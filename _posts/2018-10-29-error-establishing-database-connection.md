@@ -2,6 +2,7 @@
 tags: IT
 title: 建立数据库连接时出错
 excerpt: WordPress经常出现这错误
+comments: true
 ---
 
 
