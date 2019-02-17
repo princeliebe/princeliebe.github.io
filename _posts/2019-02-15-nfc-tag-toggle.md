@@ -44,13 +44,13 @@ Maker Channel現在是IFTTT開發者平臺的功能之一，17年已更名爲**W
 
 回到IFTTT，新增一個Applet。
 
-![New Applet](https://imgur.com/7c7nLS1)
+![New Applet](https://i.imgur.com/IbhdFYX.png)
 
 **this**選擇**webhooks**，**Event Name**隨意填寫，例如Light。
 
-![webhooks](https://imgur.com/YrxF6xC)
+![webhooks](https://i.imgur.com/cmc0U1B.png)
 
-![event](https://imgur.com/54aX3aW)
+![event](https://i.imgur.com/hQsXaTj.png)
 
 **that**選擇你要控制的服務，例如本文是wemo smart plug。某些服務需要它授予IFTTT權限認證。
 
