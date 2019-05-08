@@ -7,7 +7,8 @@ title: About Me
 
 <blockquote class="full-width"><p>A husband, a father.</p></blockquote>
 
-I am So Yee. 
+I am [So Yee](/public/document/Junhua-Yi.pdf).
+You could check my resume link above.
 
 ### Professional Experience ###
 
