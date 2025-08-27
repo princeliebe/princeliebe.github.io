@@ -1,4 +1,4 @@
-﻿---
+---
 tags: IT Systems Media
 title: Ubuntu shares to Windows10
 excerpt: Samba的运用
