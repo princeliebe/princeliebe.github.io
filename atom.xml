@@ -23,5 +23,5 @@ layout: post
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
-
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
 </feed>
