@@ -30,3 +30,5 @@ twitter_username:  princeliebe
 github_username:  princeliebe
 linkedin_username: junhua-yee-773295107
 
+plugins:
+- jekyll-feed
